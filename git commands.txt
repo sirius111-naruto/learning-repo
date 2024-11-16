@@ -1,0 +1,5 @@
+mkdir testfolder
+	cd testfolder
+		git init
+		
+
